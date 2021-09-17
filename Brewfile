@@ -18,6 +18,7 @@ brew "tomcat"
 brew "wget"
 brew "zsh"
 brew "rcmdnk/file/brew-file"
+brew "direnv"
 
 cask "atom"
 cask "docker"
